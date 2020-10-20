@@ -1,5 +1,4 @@
-# *Building a Radial basis function network (RBFN) from scratch
-*
+# *Building a Radial basis function network (RBFN) from scratch*
 
 ## Overview
 
